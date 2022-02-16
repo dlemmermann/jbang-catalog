@@ -1,0 +1,10 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "jfxcentral": {
+      "script-ref": "https://raw.githubusercontent.com/dlemmermann/jfxcentral/master/main.java",
+      "properties": {}
+    }
+  },
+  "templates": {}
+}
